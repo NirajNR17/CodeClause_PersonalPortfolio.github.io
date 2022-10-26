@@ -503,5 +503,6 @@ a{
         display: grid;
         margin-left: -197px;
     }
-    
+    .Contactnav{
+        display:none;
 }
